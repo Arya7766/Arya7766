@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arya7766
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Black Hat
-- 💞️ I’m looking to collaborate with Anonymous Group
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me 
 
 <!---
